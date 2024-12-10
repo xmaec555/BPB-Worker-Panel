@@ -6,7 +6,7 @@ js-sha256/src/sha256.js:
    *
    * @version 0.11.0
    * @author Chen, Yi-Cyuan [emn178@gmail.com]
-   * @copyright Chen, Yi-Cyuan 2014-2024
+   * @copyright Chen, Yi-Cyuan 2016-2024
    * @license MIT
    *)
 */
